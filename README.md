@@ -70,6 +70,4 @@ Alembic-Study/
 - [Documentação do Alembic](https://alembic.sqlalchemy.org/en/latest/)
 - [Documentação do SQLAlchemy](https://docs.sqlalchemy.org/en/20/)
 
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+- [Live SQLAlchemy](https://www.youtube.com/watch?v=yQtqkq9UkDA&t=3902s)
